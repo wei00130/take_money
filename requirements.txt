@@ -27,7 +27,7 @@ numpy==2.0.2
 packaging==25.0
 pandas==2.3.2
 pillow==11.3.0
-plotly
+plotly==5.24.1
 propcache==0.3.2
 protobuf==6.32.1
 pyarrow==21.0.0
